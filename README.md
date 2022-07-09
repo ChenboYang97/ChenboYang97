@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenboYang97)](https://github.com/ChenboYang97/github-readme-stats)
+
 <!--
 **ChenboYang97/ChenboYang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
